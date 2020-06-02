@@ -1,0 +1,44 @@
+State,Population,GDP,Confirmed,Fund distribution based on case % vs Population,Fund distribution based state GDP,Confirmed cases vs Population,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
+Maharashtra,123144223,14.11%,62228,,14.11%,0.05053%,26997,2098,33133,30/05/2020 00:21:05,MH,0,0,0,
+Tamil Nadu,77841267,8.55%,20246,,8.55%,0.02601%,11313,157,8776,29/05/2020 18:42:04,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
+Delhi,18710922,4.04%,17386,,4.04%,0.09292%,7846,398,9142,29/05/2020 23:15:05,DL,0,0,0,"[10-May]<br>
+
+Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
+Gujarat,63872399,7.69%,15944,,7.69%,0.02496%,8611,980,6353,29/05/2020 20:38:04,GJ,0,0,0,
+Rajasthan,81032689,4.89%,8414,,4.89%,0.01038%,5290,185,2939,30/05/2020 11:46:04,RJ,49,46,1,
+Madhya Pradesh,85358965,4.26%,7645,,4.26%,0.00896%,4269,334,3042,29/05/2020 21:42:06,MP,0,0,0,
+Uttar Pradesh,237882725,8.05%,7445,,8.05%,0.00313%,4410,201,2834,29/05/2020 22:15:08,UP,0,0,0,
+West Bengal,99609303,5.85%,4813,,5.85%,0.00483%,1775,302,2736,29/05/2020 19:33:09,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
+- Deaths due to comorbidities added to total deceased<br>
+- Zones updated as per WB bulletin<br>"
+State Unassigned,100000000,0.00%,5043,,0.00%,0.00504%,0,0,5043,30/05/2020 11:14:04,UN,370,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
+Andhra Pradesh,53903393,4.74%,3330,,4.74%,0.00618%,2234,60,1036,29/05/2020 19:33:13,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
+AP district data updated to match state dashboard as of 27th May. "
+Bihar,124799926,2.84%,3359,,2.84%,0.00269%,1209,15,2135,30/05/2020 00:15:06,BR,0,0,0,
+Karnataka,67562686,7.90%,2781,,7.90%,0.00412%,894,48,1837,29/05/2020 18:53:05,KA,0,0,0,Two active cases in KA reduced as a confirmed patient died of non-CoViD19 related reasons
+Punjab,30141373,2.80%,2197,,2.80%,0.00729%,1949,42,206,29/05/2020 19:33:23,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
+Telangana,39362732,4.41%,2425,,4.41%,0.00616%,1381,71,973,29/05/2020 23:15:08,TG,0,0,0,
+Jammu and Kashmir,13606320,0.81%,2164,,0.81%,0.01590%,875,28,1261,29/05/2020 19:12:05,JK,0,0,0,
+Odisha,46356334,2.55%,1819,,2.55%,0.00392%,977,9,833,30/05/2020 13:04:05,OR,96,0,0,
+Haryana,28204692,3.66%,1721,,3.66%,0.00610%,940,19,762,29/05/2020 21:34:09,HR,0,0,0,
+Kerala,35699443,4.10%,1151,,4.10%,0.00322%,565,9,577,29/05/2020 19:03:07,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
+Assam,35607039,1.69%,1058,,1.69%,0.00297%,126,4,925,30/05/2020 00:46:06,AS,0,0,0,"Includes one case from Nagaland <br>
+Total of Three* patients who migrated to other states has been reduced from Active count"
+Uttarakhand,11250858,1.30%,716,,1.30%,0.00636%,102,4,607,29/05/2020 20:38:11,UT,0,0,0,Three migrated cases reduced from Active count
+Jharkhand,38593948,1.62%,521,,1.62%,0.00135%,216,5,300,29/05/2020 23:54:05,JH,0,0,0,
+Chhattisgarh,29436231,1.66%,415,,1.66%,0.00141%,100,1,314,29/05/2020 21:42:08,CT,0,0,0,
+Chandigarh,1158473,0.23%,289,,0.23%,0.02495%,189,4,96,28/05/2020 16:11:07,CH,0,0,0,
+Himachal Pradesh,7451955,0.82%,297,,0.82%,0.00399%,86,6,202,30/05/2020 13:04:06,HP,2,3,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Tripura,4169794,0.27%,254,,0.27%,0.00609%,167,0,87,29/05/2020 23:15:11,TR,0,0,0,Two cases are migrated out of Tripura.
+Goa,1586250,0.41%,69,,0.41%,0.00435%,41,0,28,29/05/2020 20:24:09,GA,0,0,0,
+Ladakh,289023,0.00%,74,,0.00%,0.02560%,43,0,31,28/05/2020 20:12:06,LA,0,0,0,
+Puducherry,1413542,0.19%,53,,0.19%,0.00375%,17,0,36,28/05/2020 23:20:05,PY,0,0,0,
+Manipur,3091545,0.14%,60,,0.14%,0.00194%,6,0,54,30/05/2020 13:04:08,MN,1,0,0,
+Andaman and Nicobar Islands,417036,0.05%,33,,0.05%,0.00791%,33,0,0,7/5/2020 22:24,AN,0,0,0,
+Meghalaya,3366710,0.18%,27,,0.18%,0.00080%,12,1,14,30/05/2020 11:12:07,ML,0,0,0,
+Nagaland,2249695,0.14%,36,,0.14%,0.00160%,0,0,36,30/05/2020 11:21:05,NL,11,0,0,
+Dadra and Nagar Haveli and Daman and Diu,615724,0.00%,2,,0.00%,0.00032%,1,0,1,23/05/2020 23:47:25,DN,0,0,0,
+Arunachal Pradesh,1570458,0.13%,3,,0.13%,0.00019%,1,0,2,29/05/2020 00:33:07,AR,0,0,0,
+Mizoram,1239244,0.11%,1,,0.11%,0.00008%,1,0,0,5/5/2020 22:32,MZ,0,0,0,
+Sikkim,690251,0.14%,1,,0.14%,0.00014%,0,0,1,23/05/2020 19:42:35,SK,0,0,0,
+Lakshadweep,73183,0.00%,0,,0.00%,0.00000%,0,0,0,26/03/2020 07:19:29,LD,0,0,0,
